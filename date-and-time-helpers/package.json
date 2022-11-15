@@ -1,7 +1,8 @@
 {
-  "name": "date-and-time-helpers",
+  "name": "date-and-time-helpers-abtintime",
   "description": "Some simple time and date helpers",
   "main": "./lib/timeHelper.js",
+  "verision": "0.0.2",
   "exports": {
     ".": {
       "require": "./lib/timeHelper.js",
@@ -33,5 +34,6 @@
   },
   "dependencies": {
     "dayjs": "^1.11.6"
-  }
+  },
+  "version": "0.0.2"
 }
